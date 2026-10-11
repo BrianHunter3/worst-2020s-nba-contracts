@@ -1,6 +1,6 @@
 # Worst 2020s NBA Contract Analysis: Contract Surplus Yield (CSY)
 
-**Author:** Brian Hunter ([@Vello_Ball](https://github.com/BrianHunter3))  
+**Author:** Brian Hunter ([@BrianHunter3](https://github.com/BrianHunter3))  
 **Degree:** B.A. in Economics, University of Illinois at Urbana-Champaign  
 **Focus:** Basketball Strategy, Econometrics, & Financial Analytics  
 
