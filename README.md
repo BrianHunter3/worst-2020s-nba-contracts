@@ -47,7 +47,7 @@ Wasted Salary ($M) = Salary ($M) x (-CSY / 100)
 
 ## Key Findings
 
-* **The Dead Money Stratosphere:** Bradley Beal’s Phoenix Suns buyout ($2025–26, \$96.92\text{M}$) sits as the single most catastrophic dead-money commitment in modern NBA history ($-100.0\%\text{ CSY}$, $\$96.92\text{M}$ wasted).
+* **The Dead Money Stratosphere:** Bradley Beal’s Phoenix Suns buyout ($2025–26, $96.92M) sits as the single most catastrophic dead-money commitment in modern NBA history ($-100.0% CSY, $96.92M wasted).
 * **Validating Burns's "Good Players Overpaid" Claim:** Early contract years for Joe Harris ($2020–21, +13.1% CSY) and Kyle Kuzma ($2023–24, +1.7\%\text{ CSY}$) operated in **Tier 4: Fair Market Value** before injury and roster misalignment degraded their long-term value.
 * **The Second Apron Era:** Under the 2023 CBA, negative-CSY deals are no longer just luxury-tax penalties for wealthy owners. They freeze trade flexibility, eliminate Mid-Level Exceptions, and relegate future first-round draft picks.
 
